@@ -1,6 +1,6 @@
 Calibration Data,,Pole base length [inch],60,,,
 ,,,,,,
-Extension Length [inch],Total Pole Length [inch],Rotational Position [Degrees],Weight [lbf],Avg Half Bridge Output 1,Avg Half Bridge Output 2,LDR Output
+Extension Length [inch],Total Pole Length [inch],Rotational Position [Degrees],Weight [lbf],Avg Half Bridge Output 1,Avg Half Bridge Output 2
 2,64,0,0,233.4,192.53,
 2,64,90,0,230.2,192.48,
 2,64,280,0,230.6,189.9,
