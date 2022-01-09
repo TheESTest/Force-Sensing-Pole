@@ -27,7 +27,7 @@ plot_alpha = 0.4
 data_file_name = r'Sensing Telescoping Pole Calibration Example - Clean.csv'
 data_file_path = data_path + '\\' + data_file_name
 
-start_row = 12
+start_row = 3
 raw_data = []
 
 nonzero_weight_lbf = 2.5
