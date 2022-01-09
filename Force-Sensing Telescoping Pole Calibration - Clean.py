@@ -24,7 +24,7 @@ folder_path = data_path
 plot_alpha = 0.4
 
 #Next, process and plot the strain gauge calibration data.
-data_file_name = r'Sensing Telescoping Pole Calibration - Strain Gauges 25 Oct 2021.csv'
+data_file_name = r'Sensing Telescoping Pole Calibration Example - Clean.csv'
 data_file_path = data_path + '\\' + data_file_name
 
 start_row = 12
